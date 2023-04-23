@@ -1,4 +1,9 @@
-# Land Venture
+The files are inside docs folder
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/zummon/pen/zYRoEjq](https://codepen.io/zummon/pen/zYRoEjq).
+### Dev tools
 
+[Tailwind CSS](https://tailwindcss.com/)
+
+[unDraw](https://undraw.co/)
+
+[Font Awesome](https://fontawesome.com/)
