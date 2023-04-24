@@ -1,4 +1,4 @@
-The files are inside docs folder
+The files are inside `docs` folder.
 
 ### Dev tools
 
