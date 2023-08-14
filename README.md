@@ -1,6 +1,4 @@
-### [Codesandbox](https://codesandbox.io/p/github/zummon/land-venture/)
-
-- files are inside `docs` folder
+files are inside `docs` folder
 
 ### Dev tools
 
