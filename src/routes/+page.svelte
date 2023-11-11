@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Land Venture</title>
-	<meta
-		name="description"
-		content="Lorem ipsum dolor sit amet consectetur adipisicing"
-	/>
-  <link rel="stylesheet" href="./style.css">
-</head>
-<body>
+<script></script>
 
 <div class="sm:flex items-center">
 	<div class="flex-1">
@@ -125,7 +114,3 @@
 		Made by <span class="text-green-500">zummon</span> (Teerapat Anantarattanachai)
 	</p>
 </footer>
-
-  
-</body>
-</html>
